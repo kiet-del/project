@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="myprojectt.css">
+</head>
+<body>
+   <div  >
+    <ul>
+     <div class="film_list" style= ><img   src="Despicable_Me_Poster.jpg"></div>
+<div class="film_list" style=><img  src="despicable-me-2.jpg" alt=""></div>
+    <div class="film_list" style=><img  src="91+8YdS281L._AC_SL1500_.jpg" alt=""> </div>
+    <div class="film_list" style=><img  src="70e567e99a8148bb940bbfb4f61f9189.jpg" alt=""> </div>
+    <div class="film_list" ><img  src="Minions.jpg" alt=""></div>
+    <div class="film_list" ><img  src="poster.medium.jpg" alt=""></div>
+</ul>
+    </div>
+    <div  >
+        <ul >
+         <div class="film_list" ><img  src="poster.medium (1).jpg" alt=""></div>
+    <div class="film_list" ><img src="image.jpg" alt=""></div>
+        <div class="film_list"><img src="mv5bogq5ytm3yzctotvmmc00ogiylwfkztytmwywowzhmja2mwmwxkeyxkfqcgdeqxvymjuymte5ma-_v1_.jpg" alt=""> </div>
+        <div class="film_list" ><img  src="smffh-localized_aw-vn-poster_6-3up_triangle.jpg" alt=""></div>
+        <div class="film_list" ><img  src="unnamed.jpg" alt=""></div>
+        <div class="film_list" ><img  src="MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg" alt=""></div>
+    </ul>
+        </div>
+        <div  >
+            <ul >
+             <div class="film_list" ><img  src="poster.medium (3).jpg" alt=""></div>
+        <div class="film_list" ><img  src="meb4u.jpg" alt=""></div>
+            <div class="film_list"><img src="beginagain.jpg" alt=""> </div>
+            <div class="film_list" ><img  src="toe.jpg" alt=""></div>
+            <div class="film_list" ><img  src="Before_We_Go_Poster.jpg" alt=""></div>
+            <div class="film_list" ><img  src="MV5BYTFmZDgwMDctYWI2ZS00MDhmLTg1ZDAtMGUzZjVmZTM3ZTM5XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY1200_CR90,0,630,1200_AL_.jpg" alt=""></div>
+        <div></div>
+        </ul>
+            </div>
+            <div  >
+                <ul >
+                 <div class="film_list" ><img  src="tran.jpg" alt=""></div>
+            <div class="film_list" ><img  src="tran2.jpg" alt=""></div>
+                <div class="film_list"><img  src="Transformers_dark_of_the_moon_ver5.jpg" alt=""> </div>
+                <div class="film_list" ><img src="tran4.jpg" alt=""></div>
+                <div class="film_list" ><img  src="tran6.jpg" alt=""></div>
+                <div class="film_list" ><img  src="bumble.jpg" alt=""></div>
+            <div></div>
+            </ul>
+                </div>
+                <div  >
+                    <ul>
+                     <div class="film_list" ><div style="width: 250px; height: 350px;background-color: cyan;"></div></div>
+                <div class="film_list" ><div style="width: 250px; height: 350px;background-color: cyan;"></div></div>
+                    <div class="film_list"><div style="width: 250px; height: 350px;background-color:cyan;"></div> </div>
+                    <div class="film_list" ><div style="width: 250px; height: 350px;background-color:cyan;"></div></div>
+                    <div class="film_list" ><div style="width: 250px; height: 350px;background-color:cyan;"></div></div>
+                    <div class="film_list" ><div style="width: 250px; height: 350px;background-color:cyan;"></div></div>
+                <div></div>
+                </ul>
+                    </div>
+                    <div  >
+                        <ul >
+                         <div class="film_list" ><div style="width: 250px; height: 350px;background-color:rebeccapurple;"></div></div>
+                    <div class="film_list" ><div style="width: 250px; height: 350px;background-color: rebeccapurple;"></div></div>
+                        <div class="film_list"><div style="width: 250px; height: 350px;background-color:rebeccapurple;"></div> </div>
+                        <div class="film_list" ><div style="width: 250px; height: 350px;background-color:rebeccapurple;"></div></div>
+                        <div class="film_list" ><div style="width: 250px; height: 350px;background-color:rebeccapurple;"></div></div>
+                        <div class="film_list" ><div style="width: 250px; height: 350px;background-color: rebeccapurple;"></div></div>
+                    <div></div>
+                    </ul>
+                        </div>
+</body>
+</html>
