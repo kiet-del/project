@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body style="background-color: black;">
+    <div
+        style="background-image: url(Qg9WIU.jpg); background-size: cover; background-repeat: no-repeat; height: 750px;display: flex;flex-direction: column; justify-content: flex-end;">
+
+        ;;">
+        <p style="font-size:75px; text-align: center;color: RED;font-family: 'Source Code Pro', monospace; ">WELCOME TO
+            THE FILM </br> TALK COMMUNITY</p>
+        <p style="font-size: 25px;text-align: center;color: red;font-family: 'Source Code Pro', monospace;">WHERE YOUR
+            CREATIVITY IS OUR JOB</p>
+        <p style="font-size: 12px; text-align: center;color: white;font-family: 'Source Code Pro', monospace;">​It’s
+            time! The official release of WELCOME TO THE FILM TALK COMMUNITY has finally arrived! Place we listen to
+            your comment about</br> the film and you can create your own subtitles for the films</p>
+
+
+
+    </div>
+
+
+    <p style="color: red; text-align: center; font-size: 100px;">MOVIE OF THE WEEK</p>
+    <style>
+        .div123 {
+            width: 300px;
+            height: 250px;
+            display: inline-block;
+            /* display: flex; */
+        }
+
+        .input123 {
+            width: 280px;
+            vertical-align: bottom;
+            align-self: flex-end;
+            height: 26%;
+        }
+
+        .anhphim {
+            width: 100%;
+            height: 72%;
+            object-fit: cover;
+        }
+    </style>
+    <div style="display: flex; text-align:center; justify-content:space-around ; padding: 0% 15%;">
+
+
+        <div class="div123 " ;>
+            <img class="anhphim" src="anhtest.jpg" alt="">
+            <input class="input123" type="text" placeholder="Write a comment">
+            <button>SUBMIT</button>
+        </div>
+        <div class="div123" ;>
+            <img class="anhphim" src="anhtest.jpg" alt="">
+            <input class="input123" type="text" placeholder="Write a comment">
+            <button>SUBMIT</button>
+        </div>
+        <div class="div123">
+            <img class="anhphim" src="anhtest.jpg" alt="">
+            <input class="input123" type="text" placeholder="Write a comment">
+            <button>SUBMIT</button>
+            </div>
+    </div>
+    <p>p</p>
+    <p>p</p>
+    <div style="display: flex; text-align:center; justify-content:space-around ; padding: 0% 15%;">
+
+
+        <div class="div123 " ;>
+            <img class="anhphim" src="anhtest.jpg" alt="">
+            <input class="input123" type="text" placeholder="Write a comment">
+            <button>SUBMIT</button>
+        </div>
+        <div class="div123" ;>
+            <img class="anhphim" src="anhtest.jpg" alt="">
+            <input class="input123" type="text" placeholder="Write a comment"> <button>SUBMIT</button>
+        </div>
+        <div class="div123">
+            <img class="anhphim" src="anhtest.jpg" alt="">
+            <input class="input123" type="text" placeholder="Write a comment"> <button>SUBMIT</button>
+            </div>
+    </div>
+   
+    
+    
+ 
+    
+
+
+</body>
+
+</html>
